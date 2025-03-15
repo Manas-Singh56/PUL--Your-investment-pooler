@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# PUL--Your-investment-pooler
+Empower small and first-time investors by pooling resources for group stock investments. Users form or join groups, share insights, and spread risk. This collaborative approach lowers barriers, fosters confidence, and democratizes access to profitable market opportunities.
+>>>>>>> 2ba014661136b5d8b8671184f52ab2294d83ab8a
